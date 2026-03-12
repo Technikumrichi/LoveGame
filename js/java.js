@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             if (matchedPairs === 8) {
                 clearInterval(timer);
-                alert(`Herzlichen Glückwunsch ${username}, Sie haben das Spiel in ${timeElapsed} Sekunden beendet und ${attempts} Versuche benötigt.`);
+                alert(`Congratulations Baby, you might think "Why a memory card game. Well because we have enough memories together to make that,and i hope for many more to come. Have a wonderful birthday!!!<3<3<3<3<3`);
             }
         } else {
             setTimeout(() => {
